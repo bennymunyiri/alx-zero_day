@@ -1,1 +1,1 @@
-men its hard things
+My first readme updated
